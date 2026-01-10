@@ -1,19 +1,35 @@
-ni- 👋 Hi, I’m @santhosh-G-07
-- 👀 I’m interested in ... artificial intelligence, machine learning,data analysis 
-- 🌱 I’m currently learning ... SQL
-- 💞️ I’m looking to collaborate on ...Data analysis nd machine learning projects
-- 📫 How to reach me ...9344397037-phone
-- 😄 Pronouns: ...He/him
-- ⚡ Fun fact: ...Im bish
+👋 Hi, I’m Santhosh Goverthanan
 
-<!---
-santhosh-G-07/santhosh-G-07 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+🚀 AI & Data Science Graduate | ML Engineer | Founder @ SpydX
 
-https://github.com/santhosh-G-07/Dataset-/releases/tag/untagged-3ad70084c6f920ca72bb
---->
-8b302fadf96b4ddeaf51a1f4c005f95a
+I’m passionate about building intelligent systems that solve real-world problems. My work sits at the intersection of Artificial Intelligence, Machine Learning, and Data Analytics, with a strong focus on practical, scalable solutions.
 
-GitHub - zhu-xlab/GlobalBuildingAtlas https://share.google/olE1brpjmkabHqZtM
-https://share.google/olE1brpjmkabHqZtM
-https://tubvsig-so2sat-vm1.srv.mwn.de/
+👀 Areas of Interest
+
+>> Artificial Intelligence & Machine Learning
+
+>> Data Analysis & Predictive Modeling
+
+>> Applied Deep Learning & NLP
+
+>> Real-world AI product development
+
+🌱 Currently Learning
+
+>> Advanced SQL for analytics and backend systems
+
+>> Improving system design & deployment practices
+
+💞️ Open to Collaborate On
+
+>> Machine Learning & Data Science projects
+
+>> AI-powered applications
+
+>> Research-oriented or production-ready ML systems
+
+📫 How to Reach Me
+
+📧 Email: govakalaisanthosh@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/santhosh-goverthanan-25292b292/
